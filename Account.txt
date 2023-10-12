@@ -1,4 +1,4 @@
 struct Account {
-
+int balace =0;
 
 };
